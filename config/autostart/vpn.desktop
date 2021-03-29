@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=protonvpn
+Comment=autostart protonvpn
+Exec=protonvpn-cli c -f -p udp
+Terminal=false
